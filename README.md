@@ -6,13 +6,7 @@ Atualmente estudando:
 - Unreal Engine
 - VR/XR
 - Backend com Node.js
-- Sistemas de IA para jogos arcade
-
-## 🎮 Projetos
-
-- Jogo VR de Mecha inspirado em Super Sentai
-- Sistema de cartas interativo em Unity
-- Protótipos de IA para corrida arcade
+- Sistemas de IA para jogos
 
 ## 🛠 Tecnologias
 
@@ -20,7 +14,11 @@ Atualmente estudando:
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine)
 
+## 🎮 Jogos Públicados
+
+https://patoling.itch.io/
+
 ## 📫 Contato
 
-- Discord: seuuser
-- Email: voce@email.com
+- Discord: PeterMelv
+- Email: melvinpedro4@gmail.com
