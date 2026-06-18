@@ -1,24 +1,25 @@
-# Olá 👋
+# Hello 👋
 
-Sou desenvolvedor de jogos focado em Unity, gameplay systems e prototipagem.
+I'm a game developer focused on Unity, gameplay systems, and rapid prototyping.
 
-Atualmente estudando:
-- Unreal Engine
-- VR/XR
-- Backend com Node.js
-- Sistemas de IA para jogos
+Currently studying:
 
-## 🛠 Tecnologias
+* Unreal Engine
+* VR/XR Development
+* Backend Development with Node.js
+* AI Systems for Games
+
+## 🛠 Technologies
 
 ![Unity](https://img.shields.io/badge/Unity-000?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine)
 
-## 🎮 Jogos Públicados
+## 🎮 Published Games
 
 https://patoling.itch.io/
 
-## 📫 Contato
+## 📫 Contact
 
-- Discord: PeterMelv
-- Email: melvinpedro4@gmail.com
+* Discord: PeterMelv
+* Email: [melvinpedro4@gmail.com](mailto:melvinpedro4@gmail.com)
