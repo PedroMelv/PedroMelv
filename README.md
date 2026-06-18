@@ -17,10 +17,10 @@ Currently studying:
 
 ## 🎮 Published Games
 
-https://patoling.itch.io/
-https://gamejolt.com/games/BioclickerGame/452878
-https://puc-camp.itch.io/
-[bss/574447](https://gamejolt.com/games/towercleanerbss/574447)
+* https://patoling.itch.io/
+* https://gamejolt.com/games/BioclickerGame/452878
+* https://puc-camp.itch.io/
+* https://gamejolt.com/games/towercleanerbss/574447
 
 ## 📫 Contact
 
